@@ -1,0 +1,60 @@
+p {
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+.navbar-nav {
+  font-family: 'Poppins',
+    sans-serif;
+  font-size: 18px;
+  color: #1B3753;
+  margin-left: 18px;
+}
+
+.btnn-diseño {
+  font-size: 19px;
+}
+
+
+.tituloMain {
+
+  padding: 50px;
+  background-color: #69D1F4;
+  color: #fff;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+.logoCafe {
+  padding-left: 100px;
+
+}
+
+.avioncito {
+  margin-left: 400px;
+  margin-bottom: 30px;
+  width: 250px;
+}
+
+.puntitoscolor {
+  margin-left: 160px;
+
+}
+
+.socialmedia1 {
+  width: 40px;
+  margin-right: 10px;
+
+}
+
+.socialmedia {
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  color: #69D1F4;
+  padding: 20px;
+  background-color: #69D1F4;
+}
+
+.main-content {}
